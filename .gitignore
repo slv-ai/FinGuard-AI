@@ -1,0 +1,11 @@
+# Kaggle API credentials
+kaggle.json
+.kaggle/
+**/kaggle.json
+#Data files
+data/
+*.csv
+*.zip
+*.parquet
+*.env
+
